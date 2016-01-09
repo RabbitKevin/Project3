@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    text-align:  left;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#timer {
+    display: none;
+}
+
+#score {
+    display: none;
+}
+
+#life {
+    display: none;
+}
+
+#try-again {
+    display: none;
+}
+
+#gameOver {
+    display: none;
+}
+
+#game_area {
+    display:  none;
+}
