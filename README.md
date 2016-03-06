@@ -20,5 +20,5 @@ Water - lose 1 life
 Reference
 ===============================
 <ul>
-	<li><a href="https://github.com/lei-clearsky/p3-arcade-game">bahalps's game</li>
+	<li><a href="https://github.com/lei-clearsky/p3-arcade-game">LeiZhu's game</li>
 </ul>
