@@ -16,3 +16,9 @@ Heart - Get another life
 Those things should be avoided  
 Bug - lose 1 life  
 Water - lose 1 life
+
+Reference
+===============================
+<ul>
+	<li><a href="https://github.com/lei-clearsky/p3-arcade-game">bahalps's game</li>
+</ul>
