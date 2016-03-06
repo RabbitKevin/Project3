@@ -4,9 +4,9 @@ Open the index.html file in browser.
 
 2. How to play the game
 ===============================
-Follow the instruction in game start phase.
-Objective: using arrow keys to move to opposite side and get more points in two minutes. Everytime you reach point at opposite side, you get points.
-
+Follow the instruction in game start phase.  
+Objective: using arrow keys to move to opposite side and get more points in two minutes. Everytime you reach point at opposite side, you get points.  
+  
 Something may help you
 Green Gem - clear all bugs in the screen
 Blue Gem - get 1 points
