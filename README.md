@@ -1,6 +1,18 @@
-frontend-nanodegree-arcade-game
+1.How to run the game
 ===============================
+Open the index.html file in browser.
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+2. How to play the game
+===============================
+Follow the instruction in game start phase.
+Objective: using arrow keys to move to opposite side and get more points in two minutes. Everytime you reach point at opposite side, you get points.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Something may help you
+Green Gem - clear all bugs in the screen
+Blue Gem - get 1 points
+Orange Gem - get 3 points
+Heart - Get another life
+
+Those things should be avoided
+Bug - lose 1 life
+Water - lose 1 life
